@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/libkdegames-20.12.2.tar.xz",
-                    "sha256": "19d93fe25f1ea5173d5130b2d270038b26e6cc6f09238724f330d05fbe019439"
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/libkdegames-20.12.3.tar.xz",
+                    "sha256": "401b919640eea95ec8feab1ce0914db2750fafc19893c424eed8ea37e5e216d1"
                 } 
             ]
         },
@@ -31,8 +31,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/granatier-20.12.2.tar.xz",
-                    "sha256": "ee3c83c04a2e6305648949550e9c14fbade480bcb444de022df0b38031735a3f"
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/granatier-20.12.3.tar.xz",
+                    "sha256": "740fdf55a24e26ad83678290641676d3cc40127234332cb2010e67de934b54f4"
                 },
                 {
                     "type": "patch",
