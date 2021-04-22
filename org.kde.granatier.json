@@ -33,10 +33,6 @@
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.04.0/src/granatier-21.04.0.tar.xz",
                     "sha256": "e84bf46f618e6ab66cae8baee528486bba14eed38c92bff89b3e0022ecc99661"
-                },
-                {
-                    "type": "patch",
-                    "path": "appdata.patch"
                 }               
             ]
         }
