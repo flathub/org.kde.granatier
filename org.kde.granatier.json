@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/libkdegames-21.04.1.tar.xz",
-                    "sha256": "a4efc0caf9ad877b3c01c83c69e9b3240aeda6ab14332db06e2da9f6660b4c93"
+                    "url": "https://download.kde.org/stable/release-service/21.04.2/src/libkdegames-21.04.2.tar.xz",
+                    "sha256": "0d52eadca34dc6a9685535e3ca97c618142696c292a20c28b0b315a87cda33d8"
                 } 
             ]
         },
@@ -31,8 +31,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/granatier-21.04.1.tar.xz",
-                    "sha256": "a61f4198b8a14b2362bb425a70da662226cba5bf1f5c0812f97f5a47633d702a"
+                    "url": "https://download.kde.org/stable/release-service/21.04.2/src/granatier-21.04.2.tar.xz",
+                    "sha256": "be937aa24eac5635adef711fc0a6a3957fd9bd27adfe4c8e1fdd006651fa2979"
                 }               
             ]
         }
