@@ -7,7 +7,7 @@
     "rename-icon": "granatier",
     "finish-args": [
         "--share=ipc",
-        "--socket=fallback-x11", 
+        "--socket=fallback-x11",
         "--socket=wayland",
         "--share=network",
         "--device=dri",
@@ -17,35 +17,35 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/libkdegames-21.12.3.tar.xz",
-                    "sha256": "4b2f3fb2af0866f7aba1ae679b505faeb7577b0ab50bd619ecb642c48ae0b574",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/libkdegames-22.04.0.tar.xz",
+                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/libkdegames-$version.tar.xz"
                     }
-                } 
+                }
             ]
         },
         {
             "name": "granatier",
             "buildsystem": "cmake-ninja",
             "sources": [
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/granatier-21.12.3.tar.xz",
-                    "sha256": "cbbcb11c46b584ad9ac9d6a6c00805f0b31e2d28c7f856e9cbce189a158cd99b",
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/granatier-22.04.0.tar.xz",
+                    "sha256": "a49802717fc32e8113c80ec88045e2cffa801d38a158df5a9ac53cbc04f972a1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/granatier-$version.tar.xz"
                     }
-                }               
+                }
             ]
         }
     ]
