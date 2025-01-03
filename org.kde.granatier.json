@@ -1,7 +1,7 @@
 {
     "id": "org.kde.granatier",
     "runtime": "org.kde.Platform",
-    "runtime-version": "6.7",
+    "runtime-version": "6.8",
     "sdk": "org.kde.Sdk",
     "command": "granatier",
     "rename-icon": "granatier",
@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/libkdegames-24.08.3.tar.xz",
-                    "sha256": "6bcb2e0c6737f9b8a946e9d0b974164fb05b4165632bb59743fb19e04dbf94ee",
+                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/libkdegames-24.12.0.tar.xz",
+                    "sha256": "d919e8235b2507667d02e21b6871f556d87ab74eab6c0a5a65d313cccd688765",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/granatier-24.08.3.tar.xz",
-                    "sha256": "545a9c73b103209b4a488045ece294865fa5bd3f54890ceaf99d17f2bc3224c3",
+                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/granatier-24.12.0.tar.xz",
+                    "sha256": "06a9630f12cff8184e2257d7d260a79ea92879aaee715ae5b7b648d124875af6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
