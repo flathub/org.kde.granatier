@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/granatier-25.08.2.tar.xz",
-                    "sha256": "52337f4f711d0e4a236cac8bda78c1e095234c465f41d40bf92685f5d31f9784",
+                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/granatier-25.08.3.tar.xz",
+                    "sha256": "f4931af8d1fa0d565a12c3ec8803624a2875716c5a942b16cc88193ae101626f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
