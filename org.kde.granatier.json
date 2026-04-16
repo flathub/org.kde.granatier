@@ -28,8 +28,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/libkdegames-25.12.3.tar.xz",
-                    "sha256": "64605a58b087a57dc504d8e7fa4d637b4d59fb91ba1b4ed60f96fc78568f141c",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/libkdegames-26.04.0.tar.xz",
+                    "sha256": "12d615bc466bbdff4e85336d9cab6453dda8b4b20c8a48b74c49ec89e70d76bd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -45,8 +45,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/granatier-25.12.3.tar.xz",
-                    "sha256": "c5b8814ed4acad3e84edcddfaa9c7fdc380347e50e738c9116de42be07145c95",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/granatier-26.04.0.tar.xz",
+                    "sha256": "dfce44b1db4d2ece904784ee2d9958254ffef4ebf178ccc8fc3685d232e6cf2e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
